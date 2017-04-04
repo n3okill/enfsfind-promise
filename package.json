@@ -1,6 +1,6 @@
 {
   "name": "enfsfind-promise",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "find items on filesystem for fs module of node with promises",
   "license": "CC-BY-4.0",
   "author": {
@@ -23,7 +23,7 @@
     "test": "test"
   },
   "dependencies": {
-      "enfsfind": "^1.0"
+    "enfsfind": "^1.0"
   },
   "scripts": {
     "test": "make test",
