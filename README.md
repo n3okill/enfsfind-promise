@@ -1,3 +1,10 @@
+[![Build Status](https://travis-ci.org/n3okill/enfsfind-promise.svg)](https://travis-ci.org/n3okill/enfsfind-promise)
+[![AppVeyor status](https://ci.appveyor.com/api/projects/status/61j3dkg11jp0ynll?svg=true)](https://ci.appveyor.com/project/n3okill/enfsfind-promise)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9debc03a46d5401b8f10fa9699c37bb9)](https://www.codacy.com/app/n3okill/enfsfind-promise)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64PYTCDH5UNZ6)
+
+[![NPM](https://nodei.co/npm/enfsfind-promise.png)](https://nodei.co/npm/enfsfind-promise/)
+
 
 enfsfind-promise
 ================
